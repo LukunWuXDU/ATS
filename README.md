@@ -1,7 +1,6 @@
 # Adaptive Teaching System (ATS)
 
 ## Table of Contents
-- [Adaptive Teaching System (ATS)](#adaptive-teaching-system-ats)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Repo Architecture](#repo-architecture)
