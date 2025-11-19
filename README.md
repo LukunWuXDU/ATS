@@ -11,6 +11,14 @@
 ## Introduction
 This is the official implementation for [Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment](AAAI 2026)
 
+<p align="center">
+  <a href="#">
+  <p align="center">
+    <a href='https://arxiv.org/abs/2511.11422'><img src='http://img.shields.io/badge/Paper-arxiv.2412.10489-B31B1B.svg'></a>
+  </p>
+</p>
+
+
 **Motivation:**
 <p align="center">
 <img src="./assets/motivation_final2.png" >
