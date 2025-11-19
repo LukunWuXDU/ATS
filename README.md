@@ -163,7 +163,14 @@ The code is also inspired by prior awesome works on neural decoding tasks:
 ## Citation
 If you find our work helpful, please cite:
 ```bibtex
-
+@misc{wu2025shrinkingteacheradaptiveteaching,
+      title={Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment}, 
+      author={Lukun Wu and Jie Li and Ziqi Ren and Kaifan Zhang and Xinbo Gao},
+      year={2025},
+      eprint={2511.11422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.11422}, 
 }
 ```
 
